@@ -1,0 +1,13 @@
+{
+    "name": "Zadanie_16_3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "node ./build/app.bundle.js",
+        "start": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
